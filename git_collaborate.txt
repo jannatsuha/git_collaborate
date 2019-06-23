@@ -26,3 +26,7 @@ git reset HEAD~1 (rest commit)
 
 How to create branch:
 git checkout -b `your_branch_name`
+
+
+How to change local branch fetch:
+git checkout -t origin/branch_name
