@@ -29,6 +29,9 @@
 #### How to add all file in git?
 ``` git add . ```
 
+#### How to check status my branch?
+``` git status ``
+
 #### How to add specific file in git?
 ``` git add file_name ```
 
@@ -87,5 +90,3 @@ git checkout master
 git merge branch_name
 git push origin master
 ```
-
-
