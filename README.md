@@ -64,12 +64,14 @@ git push origin branch_name
 ````
 
 <p> Git and Bitbucket are almost same. Now I will show some consept of  bitbucket. If you work another branch how to manage I will share about that.</p>
-````
+
+```
 git checkout master
 git fetch
 git checkout -b branch_name
-````
-Here, When will you finish your work/task then you follow the command
+```
+
+##### Here, When will you finish your work/task then you follow the command
 ```
 git add 
 git commit -m "you message"
