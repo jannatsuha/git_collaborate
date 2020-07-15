@@ -50,10 +50,18 @@ git stash apply
 #### How to check all commit history?
 ``` git log```
 
-
 #### How to change local branch fetch?
 ``` git checkout -t origin/branch_name ```
 
+#### How to update local branch?
+````
+git checkout master
+git fetch
+git rebase origin/master
+git checkout brance_name
+git rebase -i origin/master
+git push origin branch_name
+````
 
 <p> Git and `Bitbucket` are almost same. Now I will show some consept of `bitbucket`. If you work another branch how to manage I will share about that.</p>
 ````
