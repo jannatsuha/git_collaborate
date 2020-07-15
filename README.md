@@ -6,6 +6,21 @@
 #### How to check git branch?
 ``` git branch ```
 
+#### How to create new branch?
+``` git branch -b branch_name ```
+
+#### How to checkout any branch?
+``` git check branch_name ```
+
+#### How to checkout fource any branch?
+``` git check branch_name -f```
+
+#### How to delete branch locally?
+``` git branch -d branch_name ```
+
+#### delete branch remotely
+```git push origin --delete remote_branch_name```
+
 #### How to add all file in git?
 ``` git add . ```
 
