@@ -5,3 +5,19 @@
 
 #### How to check git branch?
 ``` git branch ```
+
+#### How to add all file in git?
+``` git add . ```
+
+#### How to add specific file in git?
+``` git add file_name ```
+
+#### How to commit?
+``` git commit -m "Your commit message" ```
+
+#### How to push?
+``` git push ```
+
+#### How to push specific branch?
+``` git push origin branch_name ```
+
