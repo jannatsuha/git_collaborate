@@ -36,3 +36,9 @@
 #### How to push specific branch?
 ``` git push origin branch_name ```
 
+#### When work same branch how to pull later/new file or code?
+````
+git stash
+git pull
+git stash apply
+````
