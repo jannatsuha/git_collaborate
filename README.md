@@ -90,3 +90,6 @@ git checkout master
 git merge branch_name
 git push origin master
 ```
+
+###### Create virtualenv in your Django Project.
+```virtualenv venv --python=python3.8```
